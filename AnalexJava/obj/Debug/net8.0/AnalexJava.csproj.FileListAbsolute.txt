@@ -1,0 +1,15 @@
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\bin\Debug\net8.0\AnalexJava.exe
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\bin\Debug\net8.0\AnalexJava.deps.json
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\bin\Debug\net8.0\AnalexJava.runtimeconfig.json
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\bin\Debug\net8.0\AnalexJava.dll
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\bin\Debug\net8.0\AnalexJava.pdb
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\obj\Debug\net8.0\AnalexJava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\obj\Debug\net8.0\AnalexJava.AssemblyInfoInputs.cache
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\obj\Debug\net8.0\AnalexJava.AssemblyInfo.cs
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\obj\Debug\net8.0\AnalexJava.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\obj\Debug\net8.0\AnalexJava.sourcelink.json
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\obj\Debug\net8.0\AnalexJava.dll
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\obj\Debug\net8.0\refint\AnalexJava.dll
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\obj\Debug\net8.0\AnalexJava.pdb
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\obj\Debug\net8.0\AnalexJava.genruntimeconfig.cache
+C:\Users\User\Documents\oeg\isptec\Compiladores\NovoAnalex\AnalexJava\obj\Debug\net8.0\ref\AnalexJava.dll
